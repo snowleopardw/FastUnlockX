@@ -1,6 +1,6 @@
 # FastUnlockX
 
-FastUnlockX unlocks your iPhone X when it recognized a valid FaceID facial recognition. If there are any notifications present FastUnlockX will not automatically unlock your device. Free. Open Source. No Patreon needed
+FastUnlockX unlocks your iPhone X when it recognizes a valid FaceID facial recognition. If there are any notifications present FastUnlockX will not automatically unlock your device. Free. Open Source. No Patreon needed
 
 ## Installation
 
