@@ -1,0 +1,9 @@
+Package: com.cpdigitaldarkroom.fastunlockx
+Name: FastUnlockX
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Faster unlock for iPhone X
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Section: Tweaks
